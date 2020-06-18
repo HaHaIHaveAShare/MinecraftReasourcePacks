@@ -1,0 +1,6 @@
+{
+    "parent": "item/golden_hoe_real",
+    "overrides": [
+	{ "predicate": {"damage": 1.00000}, "model": "block/esmeralium"}
+    ]
+}

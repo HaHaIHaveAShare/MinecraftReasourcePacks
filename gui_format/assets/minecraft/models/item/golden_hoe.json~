@@ -1,7 +1,0 @@
-{
-    "parent": "item/golden_hoe_real",
-    "overrides": [
-	{ "predicate": {"damaged": 1, "damage": 1.00000}, "model": "block/esmeralium"},
-	{ "predicate": {}, "model": "block/diamond_ore"}
-    ]
-}

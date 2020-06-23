@@ -2,7 +2,7 @@
     "parent": "block/block",
     "textures": {
         "particle": "block/dried_kelp_side",
-        "down": "block/dried_kelp_bottom",
+        "down": "block/dried_kelp_top",
         "up": "block/dried_kelp_top",
         "north": "block/dried_kelp_side",
         "east": "block/dried_kelp_side",
